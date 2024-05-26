@@ -1,0 +1,7 @@
+WORDS2VEC , GLOVE TEKNİKLERİNE DE BAK . 
+KENDİ EKLEDİGİM STOP_WORDS = Bİ
+
+# assign reviews with score > 3 as positive sentiment
+# score < 3 negative sentiment
+# remove score = 3
+# score = 3 direk dropla cunku neutral
